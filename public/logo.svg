@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg4630"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/Users/bobderrico/repos/bingo-cards/public/favicon.ico.png"
+   inkscape:export-xdpi="12"
+   inkscape:export-ydpi="12">
+  <defs
+     id="defs4624" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-128.57143"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4627">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53332)">
+    <rect
+       id="rect4632"
+       width="130.27812"
+       height="130.27814"
+       x="2.5942681"
+       y="164.12759"
+       style="fill:#ffffff;stroke:#000000;stroke-width:5.18853617;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+    <g
+       aria-label="B"
+       transform="scale(1.0164164,0.98384876)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.49547577px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.399358"
+       id="text5441">
+      <path
+         d="m 49.81831,235.60204 v 28.44386 h 16.847917 q 8.475959,0 12.531939,-3.48398 4.107979,-3.53599 4.107979,-10.76395 0,-7.27997 -4.107979,-10.71195 -4.05598,-3.48398 -12.531939,-3.48398 z m 0,-31.92784 v 23.39988 h 15.547924 q 7.695962,0 11.439943,-2.85998 3.795982,-2.91199 3.795982,-8.83996 0,-5.87597 -3.795982,-8.78796 -3.743981,-2.91198 -11.439943,-2.91198 z M 39.314362,195.04224 H 66.14623 q 12.011941,0 18.511909,4.99197 6.499968,4.99198 6.499968,14.19593 0,7.12397 -3.327984,11.33595 -3.327983,4.21198 -9.775952,5.25197 7.747962,1.66399 12.011941,6.96797 4.315979,5.25197 4.315979,13.15593 0,10.39995 -7.071965,16.06792 -7.071965,5.66798 -20.123901,5.66798 H 39.314362 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.49547577px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.399358"
+         id="path5462" />
+    </g>
+  </g>
+</svg>
